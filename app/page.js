@@ -1,4 +1,4 @@
 // app/page.js
 export default function Page() {
-  return <h1>Hello there, Next.js!</h1>;
+  return <h1>Hello, Next.js!</h1>;
 }
