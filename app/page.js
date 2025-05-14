@@ -1,8 +1,8 @@
-import Image from 'next/Image';
+import Image from 'next/image';
 
 export default function Page() {
-  return 
-(<main>
+  return (
+  <main>
   <h1>Hello, Next.js!</h1>
   <Image
   src="/image.png"
